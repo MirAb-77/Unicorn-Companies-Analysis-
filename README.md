@@ -1,7 +1,3 @@
-Here's an enhanced and more creatively styled README for your Unicorn Companies Analysis project. This version emphasizes key aspects in a more engaging way and has a storytelling touch:
-
----
-
 # 🦄 Unicorn Companies Analysis - Discovering the World’s Billion-Dollar Innovators
 
 Explore the high-flying world of unicorn companies—those rare startups valued at over $1 billion—through the power of data analysis and visualization! With SQL, Power BI, and Python, we delve into the trends and insights that reveal where innovation thrives, who’s investing, and how these companies are shaping the global market.
@@ -52,8 +48,8 @@ With Power BI, we bring the data to life in a fully interactive dashboard. Visua
 - **Unicorn Count by Country**: See where unicorns are born.
 
 ### Sneak Peek:
-![Power BI Dashboard 1](C:\Users\HP\Downloads\UC.jpg)  
-![Power BI Dashboard 2](C:\Users\HP\Downloads\UC2.jpg)
+![Power BI Dashboard 1](images/UC.jpg)  
+![Power BI Dashboard 2](images/UC2.jpg)
 
 Explore and interact with each visual to uncover stories hidden in the data!
 
@@ -70,13 +66,13 @@ For a full Python analysis, view the [Jupyter Notebook PDF](https://github.com/M
 
 ### Key Visuals
 1. **Top 20 Unicorn Companies by Valuation and Funding**  
-   ![Top 20 Companies](C:\Users\HP\Downloads\fb.jpg)
+   ![Top 20 Companies](images/fb.jpg)
 
 2. **Top 10 Unicorn Investors**  
-   ![Top 10 Investors](C:\Users\HP\Downloads\investors.jpg)
+   ![Top 10 Investors](images/investors.jpg)
 
 3. **Countries Leading in Unicorns**  
-   ![Top Countries](C:\Users\HP\Downloads\ccc.jpg)
+   ![Top Countries](images/ccc.jpg)
 
 ---
 
