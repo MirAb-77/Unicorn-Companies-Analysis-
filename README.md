@@ -48,8 +48,8 @@ With Power BI, we bring the data to life in a fully interactive dashboard. Visua
 - **Unicorn Count by Country**: See where unicorns are born.
 
 ### Sneak Peek:
-![Power BI Dashboard 1](images/UC.jpg)  
-![Power BI Dashboard 2](images/UC2.jpg)
+![Power BI Dashboard 1]("C:\Users\HP\Downloads\UC.jpg")  
+![Power BI Dashboard 2]("C:\Users\HP\Downloads\UC 2.jpg")
 
 Explore and interact with each visual to uncover stories hidden in the data!
 
@@ -66,13 +66,13 @@ For a full Python analysis, view the [Jupyter Notebook PDF](https://github.com/M
 
 ### Key Visuals
 1. **Top 20 Unicorn Companies by Valuation and Funding**  
-   ![Top 20 Companies](images/fb.jpg)
+   ![Top 20 Companies]("C:\Users\HP\Downloads\fb.jpg")
 
 2. **Top 10 Unicorn Investors**  
-   ![Top 10 Investors](images/investors.jpg)
+   ![Top 10 Investors]("C:\Users\HP\Downloads\investors.jpg")
 
 3. **Countries Leading in Unicorns**  
-   ![Top Countries](images/ccc.jpg)
+   ![Top Countries]("C:\Users\HP\Downloads\ccc.jpg")
 
 ---
 
